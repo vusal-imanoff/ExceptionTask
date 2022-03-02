@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookSalerTaskException", "BookSalerTaskException\BookSalerTaskException.csproj", "{5E6BEB9C-8917-4A43-A552-D4239E72139B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E6BEB9C-8917-4A43-A552-D4239E72139B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6BEB9C-8917-4A43-A552-D4239E72139B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6BEB9C-8917-4A43-A552-D4239E72139B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6BEB9C-8917-4A43-A552-D4239E72139B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14FBE1D7-6082-445C-A894-36D9E0908526}
+	EndGlobalSection
+EndGlobal

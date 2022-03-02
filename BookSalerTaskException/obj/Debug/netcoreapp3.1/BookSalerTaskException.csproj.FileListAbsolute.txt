@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\BookSalerTaskException\BookSalerTaskException\bin\Debug\netcoreapp3.1\BookSalerTaskException.exe
+C:\Users\user\source\repos\BookSalerTaskException\BookSalerTaskException\bin\Debug\netcoreapp3.1\BookSalerTaskException.deps.json
+C:\Users\user\source\repos\BookSalerTaskException\BookSalerTaskException\bin\Debug\netcoreapp3.1\BookSalerTaskException.runtimeconfig.json
+C:\Users\user\source\repos\BookSalerTaskException\BookSalerTaskException\bin\Debug\netcoreapp3.1\BookSalerTaskException.runtimeconfig.dev.json
+C:\Users\user\source\repos\BookSalerTaskException\BookSalerTaskException\bin\Debug\netcoreapp3.1\BookSalerTaskException.dll
+C:\Users\user\source\repos\BookSalerTaskException\BookSalerTaskException\bin\Debug\netcoreapp3.1\BookSalerTaskException.pdb
+C:\Users\user\source\repos\BookSalerTaskException\BookSalerTaskException\obj\Debug\netcoreapp3.1\BookSalerTaskException.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BookSalerTaskException\BookSalerTaskException\obj\Debug\netcoreapp3.1\BookSalerTaskException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\BookSalerTaskException\BookSalerTaskException\obj\Debug\netcoreapp3.1\BookSalerTaskException.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BookSalerTaskException\BookSalerTaskException\obj\Debug\netcoreapp3.1\BookSalerTaskException.AssemblyInfo.cs
+C:\Users\user\source\repos\BookSalerTaskException\BookSalerTaskException\obj\Debug\netcoreapp3.1\BookSalerTaskException.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BookSalerTaskException\BookSalerTaskException\obj\Debug\netcoreapp3.1\BookSalerTaskException.dll
+C:\Users\user\source\repos\BookSalerTaskException\BookSalerTaskException\obj\Debug\netcoreapp3.1\BookSalerTaskException.pdb
+C:\Users\user\source\repos\BookSalerTaskException\BookSalerTaskException\obj\Debug\netcoreapp3.1\BookSalerTaskException.genruntimeconfig.cache
